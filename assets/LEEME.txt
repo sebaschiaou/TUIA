@@ -1,0 +1,1 @@
+nota: los diagramas de la presentación son SVG inline en presentacion.html — esta carpeta queda para imágenes que se agreguen a futuro.
